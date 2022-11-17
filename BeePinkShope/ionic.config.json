@@ -1,0 +1,7 @@
+{
+  "name": "BeePinkShope",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
