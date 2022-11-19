@@ -1,0 +1,7 @@
+{
+  "name": "CelestialShope",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
