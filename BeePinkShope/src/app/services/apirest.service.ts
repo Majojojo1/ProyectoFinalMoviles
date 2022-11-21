@@ -15,4 +15,10 @@ export class ApirestService {
       return this._http.get<T[]>(url)
   }
 
+  getimagen<T>(url: string) {
+    url = 'http://172.16.204.78:3000/productos/detMultimedia/724/000000'
+    return this._http.get<T[]>(url)
+  }
+  
+
 }
